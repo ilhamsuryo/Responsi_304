@@ -20,13 +20,5 @@
             android:layout_marginTop="20dp"
             android:text="TextView" />
 
-        <Button
-            android:id="@+id/btnBack"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="25dp"
-            android:background="#00BCD4"
-            android:text="BACK"
-            android:textColor="#FFFFFF" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
